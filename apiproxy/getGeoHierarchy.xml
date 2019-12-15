@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="7" name="getGeoHierarchy">
+    <Basepaths>/getgeohierarchy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1576419317249</CreatedAt>
+    <CreatedBy>sindhusaroj@hotmail.com</CreatedBy>
+    <Description>getGeoHierarchy</Description>
+    <DisplayName>getGeoHierarchy</DisplayName>
+    <LastModifiedAt>1576419317249</LastModifiedAt>
+    <LastModifiedBy>sindhusaroj@hotmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:bd1fd08b0d6a5b372069c613e0d05dc3a16df4e60a0aabb6a7383db7ae95350a6e76b3b9fd1bd1abd5da34235c432cacc581eba44a996fc394a9cef839059f42</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
